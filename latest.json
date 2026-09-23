@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
+  "versionCode": 11,
+  "versionName": "1.0.10",
   "apkUrl": "https://raw.githubusercontent.com/stefanodiconcetto-ux/health-sync-updates/main/HealthSync.apk",
-  "sha256": "536bf75b44e2b78915c8773a972ff236c6cefe53522124674a49739e4aa7c0d3"
+  "sha256": "b5dbedd8ebd7b1af0498648de16d0210c905701561cb0a2987a2f461551afca8"
 }
