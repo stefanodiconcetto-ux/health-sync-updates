@@ -1,6 +1,20 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0.54",
+  "versionCode": 56,
+  "versionName": "1.0.55",
   "apkUrl": "https://raw.githubusercontent.com/stefanodiconcetto-ux/health-sync-updates/main/HealthSync.apk",
-  "sha256": "133b9477d71eb73c35d99950ee8d18292d5f876ad2b76e44e355a7e6dbc3fa2b"
+  "sha256": "f3f754f4ee050bec0404222d02ad2a649b00337fd3ed38a9a7011d87ec72e107",
+  "phone": {
+    "versionCode": 56,
+    "versionName": "1.0.55",
+    "packageName": "com.healthsync",
+    "apkUrl": "https://raw.githubusercontent.com/stefanodiconcetto-ux/health-sync-updates/main/EvolMe-Phone.apk",
+    "sha256": "f3f754f4ee050bec0404222d02ad2a649b00337fd3ed38a9a7011d87ec72e107"
+  },
+  "watch": {
+    "versionCode": 56,
+    "versionName": "1.0.55",
+    "packageName": "com.healthsync",
+    "apkUrl": "https://raw.githubusercontent.com/stefanodiconcetto-ux/health-sync-updates/main/EvolMe-Watch.apk",
+    "sha256": "9d54113c772876803675cb9b5d52a10521e31ea45ef1943c0d1a60e48b64df48"
+  }
 }
